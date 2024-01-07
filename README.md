@@ -1,5 +1,5 @@
 <h1>Kitap Kurdu</h1>
-Bu basit React uygulaması, kitaplar üzerinde CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirmek için tasarlanmıştır. Bu uygulama, kullanıcıların kitap ekleyebilmesine, kitapları listeleyebilmesine, var olan kitapları düzenleyebilmesine ve silebilmesine olanak tanır.
+Bu React uygulaması, kitaplar üzerinde CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirmek için tasarlanmıştır. Bu uygulama, kullanıcıların kitap ekleyebilmesine, kitapları listeleyebilmesine, var olan kitapları düzenleyebilmesine ve silebilmesine olanak tanır.
 
 <h2>Teknolojiler</h2>
 
